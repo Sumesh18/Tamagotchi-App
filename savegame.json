@@ -1,0 +1,28 @@
+{
+  "pets": [
+    {
+      "name": "Mochi",
+      "hunger": 1,
+      "health": 10,
+      "boredom": -1,
+      "exhaustion": 1,
+      "alive": true
+    },
+    {
+      "name": "Pippin",
+      "hunger": 1,
+      "health": 10,
+      "boredom": -2,
+      "exhaustion": 1,
+      "alive": true
+    },
+    {
+      "name": "Biscuit",
+      "hunger": 1,
+      "health": 13,
+      "boredom": -1,
+      "exhaustion": -2,
+      "alive": true
+    }
+  ]
+}
